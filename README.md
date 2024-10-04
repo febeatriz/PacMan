@@ -1,2 +1,2 @@
 # PacMan
-Pac Man game with python
+Pac Man game 2D with python using pygame
